@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Grubfather
-- 👀 I’m interested in basic coding. :D
-- 🌱 I’m currently learning python and c's.
-- 📫 I have a Discord prof., dm me if you interested in anything. :D
+- 👀 I’m studying at ELTE in Hungary
+- 📫 I have a Discord prof., dm me if you interested in anything.
