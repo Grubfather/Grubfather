@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Grubfather
 - 👀 I’m studying at ELTE in Hungary
-- 📫 I have a Discord prof., dm me if you interested in anything.
+- 📫 Dm me if you interested in anything.
